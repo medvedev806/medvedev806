@@ -1,4 +1,4 @@
-![Header](https://github.com/medvedev806/medvedev806/main/header.PNG)
+![Header](https://github.com/medvedev806/medvedev806/blob/main/header.PNG)
 
 ### About Me \ Обо мне
 Я  - junior аналитик данных. 
